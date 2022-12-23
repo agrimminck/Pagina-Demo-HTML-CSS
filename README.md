@@ -10,4 +10,4 @@ Esta página fué hecha usando solamente HTML y CSS para demostrar mis habilidad
 
 Esta página web no es responsiva, debes ajustar el tamaño de tu navegador web hasta que se vea bien.
 
-![superior com](https://user-images.githubusercontent.com/4398470/209255867-b1e95263-ecde-4a9a-85ef-1cf40c32a10f.png)
+![superior com](https://user-images.githubusercontent.com/4398470/209257016-dcad852d-12a0-497a-b487-afae2bb584d1.png)
