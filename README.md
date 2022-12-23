@@ -1,4 +1,4 @@
-# Pagina-Demo-HTML-CSS non-responsive
+# Non-responsive Demo Webpage using HTML-CSS-only
 
 ## [ENGLISH]
 This page was made using only HTML and CSS to demonstrate my abilities without the use of bootstrap or tailwind, the big white square at the center is an image, all things outside of it were programmed using CSS and HTML.
