@@ -8,7 +8,7 @@ The big white square at the center is an image, all things outside of it were pr
 This webpage is not responsive, you have to place the web browser in the exact size for it to look good.
 
 ## [ESPAÑOL]
-Esta página fué hecha usando solamente HTML y CSS para demostrar mis habilidades sin utilizar bootstrap o tailwind
+Esta página fué hecha usando solamente HTML y CSS para demostrar mis habilidades sin utilizar bootstrap o tailwind.
 
 El cuadrado blanco grande al centro es una imagen, todas las cosas que están afuera de eso las programé usando CSS y HTML.
 
