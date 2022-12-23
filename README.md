@@ -1,14 +1,14 @@
 # Non-responsive Demo Webpage using HTML-CSS-only
 
 ## [ENGLISH]
-This page was made from the ground up using HTML and CSS exclusively to demonstrate my abilities without the use of bootstrap, tailwind nor webpage templates.
+This page was made from the ground up using HTML and CSS exclusively to demonstrate my abilities without the use of bootstrap, tailwind, Wix, Wordpress nor webpage templates.
 
 The big white square at the center is an image, all things outside of it were programmed using CSS and HTML.
 
 This webpage is not responsive, you have to place the web browser in the exact size for it to look good.
 
 ## [ESPAÑOL]
-Esta página fué hecha desde cero usando exclusivamente HTML y CSS para demostrar mis habilidades sin utilizar bootstrap, tailwind ni plantillas de páginas web.
+Esta página fué hecha desde cero usando exclusivamente HTML y CSS para demostrar mis habilidades sin utilizar bootstrap, tailwind, Wix, Wordpress ni plantillas de páginas web.
 
 El cuadrado blanco grande al centro es una imagen, todas las cosas que están afuera de eso las programé usando CSS y HTML.
 
